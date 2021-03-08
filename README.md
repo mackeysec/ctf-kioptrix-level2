@@ -1,6 +1,6 @@
 # Capture The Flag (CTF) | Kioptrix Level 2
 
-- https://malecki.it/capture-the-flag-ctf-kioptrix-level-2/
+- Check out the walkthrough on my blog: https://malecki.it/capture-the-flag-ctf-kioptrix-level-2/
 
 ## References
 
